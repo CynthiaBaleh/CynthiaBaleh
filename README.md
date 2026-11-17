@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi I'm Cynthia
 
-<!--
-**CynthiaBaleh/CynthiaBaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 About Me
 
-Here are some ideas to get you started:
+🎓 Education: Master's student (M1) in Data Science at Université Paris Cité.
+🔭 Current Focus: Exploring Data Science, Machine Learning, Deep Learning, and AI-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+🧠 Areas of Interest
+
+Data Science & Machine Learning
+
+Deep Learning & Artificial Intelligence
+
+Natural Language Processing (NLP)
+
+Reinforcement Learning
+
+Optimization & Quantum Machine Learning
 -->
