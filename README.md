@@ -3,6 +3,7 @@
 👋 About Me
 
 🎓 Education: Master's student (M1) in Data Science at Université Paris Cité.
+
 🔭 Current Focus: Exploring Data Science, Machine Learning, Deep Learning, and AI-driven solutions.
 
 
